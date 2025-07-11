@@ -73,7 +73,7 @@ The data used in this study is only partially open available. We here give an ov
 * Source: https://land.copernicus.eu/en/products/corine-land-cover/clc-2012
 * Dataset: DOI (raster 100 m): https://doi.org/10.2909/a84ae124-c5c5-4577-8e10-511bfe55cc0d
 
-### GHS population of 2010 (GHS-POP)
+### GHS population of 2020 (GHS-POP)
 * Source: https://human-settlement.emergency.copernicus.eu/download.php?ds=pop
 * Dataset: Epoch 2020, Resolution 100m, Coord. System Mollweide; GHS_POP_E2020_GLOBE_R2023A_54009_100_V1_0 (XXXMB)
 * Schiavina M., Freire S., Carioli A., MacManus K. (2023): GHS-POP R2023A - GHS population grid multitemporal (1975-2030).European Commission, Joint Research Centre (JRC), PID: http://data.europa.eu/89h/2ff68a52-5b5b-4a22-8f40-c41da8332cfe, doi:10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE 
